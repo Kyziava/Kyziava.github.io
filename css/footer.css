@@ -1,0 +1,45 @@
+footer {
+    background-color:rgb(218, 199, 172) ;
+}
+
+#footer-box {
+    margin-top: 4rem;
+    margin-left: 4.5rem;
+    padding-bottom: 3rem;
+    width: 25rem;
+}
+
+.newsletter {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    font-size:x-large;
+    font-family: "Vidaloka", serif;
+    color: rgb(114, 68, 200);
+}
+
+.buttons input {
+    width: 7rem;
+    height: 1.7rem;
+    border: none;
+    background-color: rgb(210, 181, 139);
+    font-family: "Vidaloka", serif;
+    font-size: medium;
+    color: rgb(114, 68, 200);
+}
+.buttons input:hover {
+    background-color: rgb(211, 186, 151);
+}
+
+#footer-navi {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-top: 2rem;    
+}
+
+#footer-navi a {    
+    font-size:large;
+    text-decoration: none;
+}

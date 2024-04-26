@@ -1,0 +1,37 @@
+form input {
+    height: 1.6rem;
+    border: none;
+}
+textarea {
+    border:none;
+}
+
+form {
+    font-family: "Vidaloka", serif;
+}
+
+.line1 {
+    display:inline-block;
+    width: 8rem;
+}
+
+.name-fields {
+    padding-top: 1rem;
+    align-items:end;
+}
+
+.name-fields label span {
+    color: red;
+}
+
+#comment-label {
+    display: flex;
+    gap: 5px;
+}
+
+.buttons {
+    margin-top: 0.5rem;
+}
+.buttons input {
+    width: 5.5rem;
+}
