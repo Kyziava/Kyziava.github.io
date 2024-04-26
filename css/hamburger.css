@@ -43,6 +43,11 @@
     display:block;
     align-self: center; 
 }
+#desktop-navi {
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+}
 
 /* media Regel für Smartphone */
 @media (max-width: 64rem){
